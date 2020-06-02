@@ -1,0 +1,4 @@
+In Python you can print variables to the terminal
+In Python you can concatenate strings together
+In Python you can do simple math on variables
+In Python you can use % to find the remainder of a division
